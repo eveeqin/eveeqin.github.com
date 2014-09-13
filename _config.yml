@@ -3,23 +3,23 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Evee Qin"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   QIN Linyan 
 
-email: a-mail@mail.mail
+email: qinlinyan1213@163.com 
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'QIN Linyan'
+author: 'QIN Linyan'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://eveeqin.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
